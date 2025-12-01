@@ -1,4 +1,4 @@
-# Crypto*Volatility*&*Risk*Analyzer 🚀
+# Crypto_Volatility_&_Risk_Analyzer 🚀
 
 A **Crypto Volatility & Risk Analyzer** built with Python + Streamlit — fetches cryptocurrency price data, computes risk & return metrics, and provides interactive charts + dashboards for analysis and comparison.
 
