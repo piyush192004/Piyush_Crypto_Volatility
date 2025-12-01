@@ -103,7 +103,7 @@ http://localhost:8501
 
 ## 👤 Author
 
-**Piyush** — personal project on crypto risk and volatility analytics.
+**Piyush** — This project is part of Intern at Infosys Springboard
 
 ---
 
