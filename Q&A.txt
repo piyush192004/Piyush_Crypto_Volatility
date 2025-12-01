@@ -1,0 +1,11 @@
+Q1. Which API you used
+Ans. I have used the CoinGecko API for data fetching.
+
+Q2. What data you extracted
+Ans. I have extracted the price and timestamp of the coin and then calculated the metrics using
+the price and timestamp like volatility(daily, annual), Risk ratio(ie. Shrape Ratio) and 
+Beta(ie. comparison with BTC).
+
+Q3. Why visualization is useful
+Ans. visualization is useful as it turns the heavy numerical data into charts and visual representation
+which could be more easily understood by an investor.
